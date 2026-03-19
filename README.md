@@ -106,11 +106,7 @@ http://localhost:5173
 - Manejo de estado para modales
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-## Objetivo del proyecto y a tomar en cuenta
-
-Practicar el desarrollo de interfaces interactivas con React y manejo de estado y animaciones.
----
+## Notas
 
 * Las imágenes se cargan localmente desde la carpeta `assets`
 * No se incluye `node_modules` en el repositorio
