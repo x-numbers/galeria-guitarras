@@ -50,7 +50,7 @@ galeria-guitarras/
 ### 1️.- Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/galeria-guitarras.git
+git clone https://github.com/x-numbers/galeria-guitarras.git
 cd galeria-guitarras
 ```
 
