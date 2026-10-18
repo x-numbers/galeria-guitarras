@@ -1,6 +1,6 @@
 ## Galería de Guitarras con React
 
-Este proyecto es una **galería interactiva de guitarras** desarrollada con **React** y **Vite**.
+Este proyecto es una galería interactiva de guitarras desarrollada con React y Vite.
 Permite visualizar diferentes modelos de guitarras en formato de tarjetas y verlas en tamaño grande mediante un modal con animaciones suaves.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -110,7 +110,7 @@ http://localhost:5173
 
 * Las imágenes se cargan localmente desde la carpeta `assets`
 * No se incluye `node_modules` en el repositorio
-* Proyecto enfocado en aprendizaje y práctica
+* Proyecto enfocado a aprendizaje y práctica
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
